@@ -1,7 +1,7 @@
 # Team Agreement for SavvyCoders Project
 This file will outline agreememnts for the team consisting of Paul Thomas, Jeremy Vaughn, and Joe Doyle
 
-#Cooperation Plan
+# Cooperation Plan
 
 What are the key strengths of each person on the team?
 - We are fairly equal in most aspects, being a approximately the same level in the class. 
@@ -12,7 +12,7 @@ In which professional competencies do you each want to develop greater strength?
 Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 - In order to accomplish this, each aspect of work will be reviewed by the rest of the team before being published in it's final form.
 
-#Conflict Plan
+# Conflict Plan
 
 What will be your group’s process to resolve conflict, when it arises?
  - Any conflicts that arise will be handled democratically, as we are graced with an odd number of team members.
@@ -25,7 +25,7 @@ How will you raise concerns to members who are not adequately contributing?
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 - As soon as it is apparent that we cannot resolve the issues at our level.
 
-#Communication Plan
+# Communication Plan
 
 What hours will you be available to communicate?
 - As we are using chat for most communication, messaages can be dropped at any time.
@@ -42,14 +42,14 @@ What is your strategy for ensuring everyone’s voice is heard?
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 - By being respectful of everyone's time and ideas
 
-@Work Plan
+# Work Plan
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 By discussion and Slack.
 What project management tool will be used?
 As this is not a large project, the slide deck will be used to track progress
 
-#Git Process
+# Git Process
 
 What components of your project will live on GitHub?
 Both this .md file and the code to be presented will live in a repo on Joe Doyl'e GitHub
