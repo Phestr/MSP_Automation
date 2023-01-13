@@ -49,6 +49,8 @@ By discussion and Slack.
 ## What project management tool will be used?
 As this is not a large project, the slide deck will be used to track progress
 
+https://docs.google.com/presentation/d/13g0uBB_eEgCenld7Qq07aSZa_rOXZ28WFdA5cKyNwBw/edit#slide=id.g2accd1c413_3_31
+
 # Git Process
 
 ## What components of your project will live on GitHub?
